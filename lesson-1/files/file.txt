@@ -1,0 +1,3 @@
+newappend file test
+append file test
+append file test
